@@ -1,0 +1,12 @@
+Le Football Club de GIT compte plus de 150 licenciés.
+
+Les équipes engagées en compétition sont :  
+
+- trois équipes séniors
+- une équipe U18 (joueurs âgés de 16, 17 et 18 ans)
+- une équipe U15 (joueurs âgés de 14 et 15 ans)
+- une équipe U13 (joueurs âgés de 12 et 13 ans)
+- une équipe U11 (joueurs âgés de 10 et 11 ans)
+- un équipe de football animation (joueurs âgés de 6 et 9 ans)
+. une équipe féminie seniors
+
